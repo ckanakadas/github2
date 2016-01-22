@@ -3,6 +3,7 @@ package bean;
 public class User {
 	//This is second commit
 	//Merging.....
+	//Merging master
 	private String ID,Name,Email,Company,Password,CreationDate,CreationTime,Uname;  
 	  
 	public String getID() {  
