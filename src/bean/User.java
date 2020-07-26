@@ -4,6 +4,7 @@ public class User {
 	//This is second commit
 	//Merging.....
 	//Merging master
+	//Lets complete
 	private String ID,Name,Email,Company,Password,CreationDate,CreationTime,Uname;  
 	  
 	public String getID() {  
